@@ -78,3 +78,6 @@ PhantomProbe is an open-source project, and contributions from the community are
 3. Help improve the documentation or provide translations for non-English speakers.
 ## Credits
 PhantomProbe is developed and maintained by Yasin Saffari (symbolexe) founder & CEO of OxyopesLab. Special thanks to all contributors and supporters who have helped make this project possible.
+
+## Download .Zip File
+if you have any problem with ```git clone```, just download .zip file from releases.
